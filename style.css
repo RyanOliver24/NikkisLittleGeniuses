@@ -123,8 +123,11 @@ body{
     font-size: 1.5rem;
 
 }
-
-
+.donate{
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+}
 .main {
     background-color: #141414;
     
@@ -139,11 +142,12 @@ body{
     align-items: center;
     justify-self: center;
     margin: 0 auto;
-    height: 90vh;
+    height: 80vh;
     background-color: #141414;
     z-index: 1;
     width: 100%;
     max-width: 1000px;
+    padding-top: 150px;
     padding-right: 50px;
     padding-left: 50px;
 
